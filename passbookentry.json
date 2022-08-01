@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "wallet",
+    "amount": "$143,624",
+    "text": "Your Bank balance"
+  },
+  {
+    "icon": "chart",
+    "amount": "$143,624",
+    "text": "Make Balance"
+  },
+  {
+    "icon": "camera",
+    "amount": "7",
+    "text": "Employeesk Working"
+  },
+  {
+    "icon": "card",
+    "amount": "3,287.49",
+    "text": "This Week's card"
+  }
+]
